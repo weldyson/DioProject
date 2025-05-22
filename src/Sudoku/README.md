@@ -1,3 +1,5 @@
+# DioProject
+
 # 🧩 Projeto Sudoku em Java
 
 Este é um projeto simples de Sudoku desenvolvido em Java, para o desafio da DIO com interface no terminal. O objetivo é permitir que o usuário jogue Sudoku diretamente no console, inserindo números e validando movimentos.
